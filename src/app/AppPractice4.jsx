@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Formik } from "formik";
-import "./AppPractice4.css";
+import "../app/css/AppPractice4.css";
 
 export default function AppPractice4() {
     // Regex kiểm tra định dạng email

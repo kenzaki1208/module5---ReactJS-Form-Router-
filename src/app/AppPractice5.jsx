@@ -3,7 +3,7 @@ import { Routes, Route, Link } from "react-router-dom";
 import Home from "../components/Home";
 import About from "../components/About";
 import Contact from "../components/Contact";
-import "./AppPractice5.css";
+import "../app/css/AppPractice5.css";
 
 function AppPractice5() {
     return (

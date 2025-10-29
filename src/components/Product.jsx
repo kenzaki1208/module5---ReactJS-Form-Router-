@@ -1,6 +1,6 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import "../app/AppPractice6.css";
+import "../app/css/AppPractice6.css";
 
 function Product() {
     // Lấy tham số categoryId từ URL

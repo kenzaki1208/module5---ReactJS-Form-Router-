@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./AppPractice3.css";
+import "../app/css/AppPractice3.css";
 
 export default function AppPractice3() {
     // Thông báo lỗi tương ứng với từng trường

@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import "../app/AppPractice6.css";
+import "../app/css/AppPractice6.css";
 
 function Category() {
     const navigate = useNavigate();

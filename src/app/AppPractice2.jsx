@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./AppPractice2.css";
+import "../app/css/AppPractice2.css";
 
 // Các thông báo lỗi dùng để hiển thị khi validate không hợp lệ
 const MESSAGE_ERROR = {
